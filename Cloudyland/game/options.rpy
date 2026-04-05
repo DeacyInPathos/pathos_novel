@@ -20,8 +20,9 @@ define gui.show_name = True
 
 
 ## 游戏版本号。
-
-define config.version = "1.0"
+#大版本更新
+#中版本是形成了一定的章节，可以进行测试
+define config.version = "0.0.1"
 
 
 ## 放置在游戏内“关于”屏幕上的文本。将文本放在三个引号之间，并在段落之间留出空
