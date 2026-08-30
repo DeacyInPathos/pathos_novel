@@ -4,5 +4,13 @@
         "**/*.rpa": true,
         "**/*.rpymc": true,
         "**/cache/": true
+    },
+    "files.associations": {
+        "*.ss": "scheme",
+        "*.sps": "scheme",
+        "*.scm": "scheme",
+        "*.sch": "scheme",
+        "*.sls": "scheme",
+        "*.sld": "scheme"
     }
 }
